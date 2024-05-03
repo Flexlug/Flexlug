@@ -9,6 +9,14 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+#### JVM
+
+<div>
+  <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" width="40" height="40"/>
+  <img src="https://github.com/onemarc/tech-icons/raw/main/icons/jetpackcompose-dark.svg" width="40" height="40"/>
+</div>
+
 #### .NET Framework / .NET
 
 <div>
@@ -16,14 +24,6 @@
   <img src="https://www.avaloniaui.net/img/logo/avalonia-white-purple.svg" width="40" height="40"/>
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" width="40" height="40"/>
   <img src="https://artifacthub.io/image/1d6273a6-dd09-47fa-90c4-5693fdf81678@4x" width="40" height="40"/>
-</div>
-
-#### JVM
-
-<div>
-  <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/onemarc/tech-icons/raw/main/icons/jetpackcompose-dark.svg" width="40" height="40"/>
 </div>
 
 #### Python
